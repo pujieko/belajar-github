@@ -1,5 +1,5 @@
 Belajar penggunaan github.
-- Apa itu github
 - Istilah istilah pada github
 - Fungsi setiap istilah pada github
 - Merelasikan gitHub dengan Git
+- Implementasi gitHub pada sebuah proyek
